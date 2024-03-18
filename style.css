@@ -1,0 +1,29 @@
+body{
+background-color: rgb(16, 17, 10);
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+}
+h2{
+    color:rgb(105, 190, 71);
+    border: 8px solid greenyellow;
+}
+h1{
+color: rgb(154, 204, 62);
+border: 6px solid rgba(19, 213, 219, 0.877);
+}
+h3{
+    color: aqua;
+    border: 10px rgb(65, 130, 204);
+}
+p{
+    color: rgb(159, 235, 129);
+    border: 6px green
+}
+footer{
+    border-top:8px solid green ;
+    border-left: 400px solid green;
+    border-right: 400px solid green;
+}
+section{
+    h3{ border: 2px rgb(171, 197, 171);}
+}
